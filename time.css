@@ -1,0 +1,35 @@
+table,th,td{
+    border: 3px solid black; 
+    border-collapse: collapse;
+    border-spacing: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+th{
+    background-color: blue;
+}
+
+
+td{
+    background-color: hotpink;
+    padding:10px;
+}
+#a{
+    border-style: none;
+    font-size: 20px;
+    text-align: center;
+
+}
+table{
+    padding: 40px;
+    
+}
+#b{
+    background-color:chartreuse;
+    color: black;
+    font-size: 20px;
+}
+h2{
+   text-align: center;
+}

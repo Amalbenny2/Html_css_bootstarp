@@ -1,0 +1,34 @@
+h1.c1{
+    background-color: aqua;
+    font-size: x-large;
+    color: black;
+    text-align: center;
+}
+h1.c2{
+    background-color: black;
+    font-size: larger;
+    color: aliceblue;
+    text-align: center;
+    margin: 10px;
+    padding-right: 10px;
+}
+p{
+    background-color: black;
+    font-size: larger;
+    color: aliceblue;
+    text-align: center;
+    margin: 10px;
+    padding-right: 10px;
+}
+#p{
+    background-color: aqua;
+    font-size: 15px;
+    color: blue;
+    text-align: right;
+}
+#a{
+    background-color: chartreuse;
+    color: black;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

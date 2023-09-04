@@ -1,0 +1,17 @@
+.row{
+    display: flex;
+}
+.column{
+    flex:33%;
+    height: 200px;
+    width: 10px;
+    padding: 10px;
+}
+#new{
+    padding: 250px;
+
+}
+img{
+    height: 200px;
+    width: auto;
+}

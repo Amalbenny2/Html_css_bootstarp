@@ -1,0 +1,37 @@
+.city {
+
+   text-align: center;
+    color: blue;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    border: 50px red;
+    margin:30px;
+    padding-left: 50px;
+
+}
+
+.un{
+   
+    color: crimson;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 2px;
+    
+}
+.un{
+    display: inline-block;
+    align-self: center;
+}
+
+.order{
+  
+    color: crimson;
+    border: 1px solid black;
+    margin:20px ;
+    padding: 2px; ;
+    
+}
+.order{
+    display: inline-block;
+}
